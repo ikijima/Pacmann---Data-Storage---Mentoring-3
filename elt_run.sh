@@ -3,7 +3,7 @@
 echo "========== Start Orcestration Process =========="
 
 # Virtual Environment Path
-VENV_PATH="C:\Users\LENOVO THINKPAD\Documents\Github\Pacmann---Data-Storage_-Warehouse--Mart---Lake\mentoring 3\pactravel-dataset-main\pipeline\src_query\dbt_env\bin\activate"
+VENV_PATH="C:\Users\LENOVO THINKPAD\Documents\Github\Pacmann---Data-Storage_-Warehouse--Mart---Lake\mentoring 3\pactravel-dataset-main\pipeline\src_query\.venv\bin\activate"
 
 # Activate Virtual Environment
 source "$VENV_PATH"
