@@ -28,14 +28,14 @@
     SRC_POSTGRES_HOST=localhost
     SRC_POSTGRES_USER=postgres
     SRC_POSTGRES_PASSWORD=mypassword
-    SRC_POSTGRES_PORT=5433
+    SRC_POSTGRES_PORT=5439
   
     # DWH
     DWH_POSTGRES_DB=pactravel-dwh
     DWH_POSTGRES_HOST=localhost
     DWH_POSTGRES_USER=postgres
     DWH_POSTGRES_PASSWORD=mypassword
-    DWH_POSTGRES_PORT=5434
+    DWH_POSTGRES_PORT=5440
   ```
 
 - **Run Data Sources & Data Warehouses** :
